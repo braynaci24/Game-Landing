@@ -49,24 +49,21 @@ body {
     margin-left: 17px;
 }
 .main-baslik {
-    font-family: Bebas Neue;
-    font-style: normal;
+    font-family: 'Bebas Neue', sans-serif;
     font-weight: bold;
     font-size: 80px;
     line-height: 80px;
     text-align: center;
     letter-spacing: 3px;
-    text-transform: uppercase;
     color: white;
     margin: 150px 0px 0px 0px;
 }
 .main-metin {
-    font-family: Bebas Neue;
-    font-style: normal;
+    font-family: 'Bebas Neue', sans-serif;
     font-weight: bold;
     font-size: 24px;
     line-height: 24px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     text-align: center;
     color: white;
     margin: 0px 0px 20px 0px;
@@ -75,7 +72,6 @@ body {
     display: block;
     color: #1A1917;
     text-decoration: none;
-    float: left;
     margin: 28px 0px 0px 470px;
     background: #FFB548;
     width: 250px;
