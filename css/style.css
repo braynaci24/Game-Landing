@@ -94,8 +94,8 @@ body {
 }
 .enterance {
     background-image: url("../images/background-2.png");
-    width: 1223px;
-    height: 900px;
+    width: 1441px;
+    height: 1050px;
     overflow: hidden;
 }
 .left-block {
@@ -141,8 +141,8 @@ body {
 }
 .bolme-3 {
     background-image: url("../images/arka-plan.png");
-    width: 1223px;
-    height: 900px;
+    width: 1568px;
+    height: 959px;
     overflow: hidden;
 }
 .left-foto {
@@ -210,4 +210,22 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     border-radius: 4px;
+}
+.footer {
+    background: #080A0B;
+    height: 200px;
+    width: 1300px;
+    padding: 1px;
+}
+.footer-logo {
+    float: left;
+}
+.link-3 {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.liste-elemani-2 {
+    list-style-type: none;
+    float: left;
+    margin: 30px;
 }
